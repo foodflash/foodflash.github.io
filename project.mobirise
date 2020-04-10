@@ -731,7 +731,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-04-09-at-17.50.45.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/glaucia-1273x853.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
